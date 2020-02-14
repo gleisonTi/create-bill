@@ -1,6 +1,6 @@
 {
   "name": "create-bill",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Gerar boletos para vários bancos com correção para o itaú",
   "main": "index.js",
   "directories": {
