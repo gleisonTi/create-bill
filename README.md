@@ -3,7 +3,7 @@
 [![NPM create-bill package](https://img.shields.io/npm/v/create-bill.svg)](https://npmjs.org/package/create-bill)
 <!-- [END badges] -->
 
-Biblioteca em Node.js para geração de boletos utilizando PDFKit baseada e modificada a partir do [create-bill](https://npmjs.org/package/create-bill) para atender as minhas necessidades
+Biblioteca em Node.js para geração de boletos utilizando PDFKit baseada e modificada a partir do [gerar-boleto](https://npmjs.org/package/gerar-boleto) para atender as minhas necessidades
 
 Geração de boletos para bancos:
 - Bradesco
